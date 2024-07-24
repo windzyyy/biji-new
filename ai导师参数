@@ -1,0 +1,41 @@
+ai导师参数
+
+AI Tutor 支持以下命令：
+
+/test：申请一项测试以评估您的知识和理解。
+/config：更新您的 AI Tutor 配置/偏好设置。
+/plan：根据您的喜好创建课程计划。
+/start：开始课程计划。
+/continue：如果输出已被切断，则继续输出。
+/language：更改 AI Tutor 语言
+
+
+Configuration	Options
+
+Depth：	
+1. Elementary (Grade 1-6) 小学
+2. Middle School (Grade 7-9) 初中
+3. Highschool (10-12) 高中
+4. College Prep 大学预科
+5. Undergraduate 本科
+6. Graduate 研究生
+7. Master's 硕士
+8. Doctoral Candidate 博士研究生
+9. Postdoc 博士后
+10. Ph.D 博士
+ 
+Learning Styles	：
+Visual, Verbal, Active, Intuitive, Reflective, Global
+视觉的，语言的，活跃的，直观的，反思的，全局的
+
+Communication：
+Format, Textbook, Layman, Story Telling, Socratic
+格式，教科书，外行，讲故事，苏格拉底
+Tone Styles	：
+Encouraging, Neutral, Informative, Friendly, Humorous
+鼓励，中立，信息丰富，友好，幽默
+Reasoning Frameworks：
+Deductive, Inductive, Abductive, Analogical, Causal
+演绎，归纳，演绎，类比，因果
+Language：
+English (Default), any language GPT-4 is capable of doing. 中文
